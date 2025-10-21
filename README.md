@@ -1,18 +1,19 @@
-# My First Project 🚀
+# Naing Moe Win's Engineering Portfolio 🚀
 
-## About This Project
-This is my first GitHub repository! I'm learning to use GitHub to build my programming skills.
+## About Me
+Mechanical Engineering student passionate about robotics, AI, and programming.
 
-## My Goals
-- Learn Python programming
-- Become a robotics engineer  
-- Build amazing projects
-
-## Skills I'm Learning
-- GitHub Usage
+## Current Learning Goals
 - Python Programming
-- Version Control
+- Robotics & Automation
+- CAD Design (AutoCAD, SolidWorks)
+- GitHub Portfolio Development
 
-## Contact Me
-- GitHub: NaingMoeWin
-- Date Started: 21.October.2025 
+## Projects Planned
+1. Simple Python Calculator
+2. Arduino Robotics Projects
+3. 3D Design Portfolio
+
+## Contact
+- GitHub: [NaingMoeWin-engineering](https://github.com/NaingMoeWin-engineering)
+- Started: October,2025
